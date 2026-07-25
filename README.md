@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=acornyjoke&color=bbdadc)
+![](https://komarev.com/ghpvc/?username=my-slop&color=bbdadc)
 <p align="center">
   <img src="https://i.postimg.cc/C15d0zFN/Whats-App-Image-2026-07-08-at-8-58-00-PM.jpg" width="400">
 </p>
