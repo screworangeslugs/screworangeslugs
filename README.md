@@ -5,6 +5,7 @@
 <p align="center">$\color{#b8cccd}{\text{Nines / Newbie}}$</p>
 <p align="center">$\color{#eee26f}{\text{my/cn he / slime prns only.}}$</p>
 <p align="center">$\color{#b8cccd}{\text{diagnosed NPD iwcaution if not oomf}}$</p>
+<p align="center">$\color{#eee26f}{\text{i'm a theistic satanist}}$</p>
 
 
 <p align="center">
