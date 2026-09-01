@@ -14,5 +14,8 @@
   <a href="https://fluffle.cc/screworangeslugs">fluffle.cc</a>
 </p>
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27C2B&width=435&lines=kudos+for+taking+notes%2C+flunky!;make+sure+everyone+gets+a+copy%2C;will+ya%3F" alt="Typing SVG" /></a>
-
-[![image.png](https://i.postimg.cc/CKKWm3HB/image.png)](https://postimg.cc/xXWxdFZn)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ybnfueoxts73bat3yulcw44wr4&cover_image=true&theme=default&show_offline=false&background_color=8959ab&interchange=false&profanity=false&hide_remaster=false&bar_color=f27c2b">
+  </a>
+</p>
