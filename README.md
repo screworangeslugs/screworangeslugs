@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/WbFJQZmV/checker-div.gif" alt="div" width="800">
-  <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&pause=100&color=846F62&center=true&width=435&lines=Du+willst+eine+Jahreskarte;Du+willst+einen+Ring+am+Finger;Eine+Gummihand+in+deiner;Festgekettet+und+f%C3%BCr+immer" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&duration=3000&color=8A72AC&center=true&width=435&lines=Du+willst+eine+Jahreskarte;Du+willst+einen+Ring+am+Finger;Eine+Gummihand+in+deiner;Festgekettet+und+f%C3%BCr+immer;Festgekettet+und+f%C3%BCr+immer" alt="Typing SVG" /></a>
 </p>
 <img align="left" src="https://i.postimg.cc/g0ZppYSp/Untitled17-20260902093354.png" alt="newbuck" width="500">
 
@@ -23,7 +23,7 @@
   [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore) , [aven](https://github.com/avenueq) 
 </details>
 <br clear="left" />
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&pause=100&color=C54A1A&center=true&width=435&lines=Aber%E2%80%85ich%E2%80%85will+dein+;Fahrradsattel%E2%80%85sein" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&duration=3000&color=C54A1A&center=true&width=435&lines=Aber%E2%80%85ich%E2%80%85will+dein+;Fahrradsattel%E2%80%85sein" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://i.postimg.cc/WbFJQZmV/checker-div.gif" alt="div" width="800">
 </p>
