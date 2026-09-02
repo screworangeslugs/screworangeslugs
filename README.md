@@ -19,7 +19,7 @@
 <details>
   <summary>friends</summary>
 
-  [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore)
+  [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore) , [aven](https://github.com/avenueq)
 </details>
 <br clear="left" />
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27C2B&width=435&lines=kudos+for+taking+notes%2C+flunky!;make+sure+everyone+gets+a+copy%2C;will+ya%3F" alt="Typing SVG" /></a>
