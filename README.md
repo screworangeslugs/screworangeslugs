@@ -20,7 +20,7 @@
 <details>
   <summary>friends</summary>
 
-  [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore) , [aven](https://github.com/avenueq) 
+  [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore) , [aven](https://github.com/avenueq) , [wumble](https://github.com/Timebattle)
 </details>
 <br clear="left" />
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&duration=3000&color=C54A1A&center=true&width=435&lines=Aber%E2%80%85ich%E2%80%85will+dein+;Fahrradsattel%E2%80%85sein" alt="Typing SVG" /></a>
