@@ -7,10 +7,10 @@
 </p>
 <img align="left" src="https://i.postimg.cc/g0ZppYSp/Untitled17-20260902093354.png" alt="newbuck" width="500">
 
-<p align="left">$\color{#c54a1a}{\text{Nines / Newbie / Jiu / 99}}$</p>
-<p align="left">$\color{#8a72ac}{\text{he / slime prns only.}}$</p>
-<p align="left">$\color{#c54a1a}{\text{diagnosed NPD iwcaution if not oomf}}$</p>
-<p align="left">$\color{#8a72ac}{\text{i'm a theistic satanist}}$</p>
+<p align="left">$\color{#c54a1a}{\text{◌♥︎̼̻ ͟ ͟ ͟ ͟ ⠀⠀⠀Nines / Newbie / Jiu / 99⠀⠀⠀࿁♪}}$</p>
+<p align="left">$\color{#8a72ac}{\text{◠◠ ˚⠀⠀⠀⠀⠀⠀he / slime prns only.}}$</p>
+<p align="left">$\color{#c54a1a}{\text{⠀⠀⠀⠀⠀⠀diagnosed NPD iwcaution if not oomf⠀⠀⠀ ಿৎ}}$</p>
+<p align="left">$\color{#8a72ac}{\text{✎⠀⠀⠀⠀⠀i'm a theistic satanist}}$</p>
 <details>
   <summary>                 dni ，ㅤ ׅ 𝄂𝄚𝅦𝄚𝄞𝅄ㅤ</summary>
 
