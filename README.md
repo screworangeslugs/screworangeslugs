@@ -12,12 +12,12 @@
 <p align="left">$\color{#c54a1a}{\text{⠀⠀⠀⠀⠀⠀diagnosed NPD iwcaution if not oomf⠀⠀⠀ ಿৎ}}$</p>
 <p align="left">$\color{#8a72ac}{\text{✎⠀⠀⠀⠀⠀i'm a theistic satanist}}$</p>
 <details>
-  <summary>                 dni ，ㅤ ׅ 𝄂𝄚𝅦𝄚𝄞𝅄ㅤ</summary>
+  <summary>dni</summary>
 
   basic dni . most particularly LSP fandom, South Park fandom, Kayden Smith/H&YYMagic8ball and PuckieLockie supporters dni pls
 </details>
 <details>
-  <summary>ㅤ             ❗       ．    friends</summary>
+  <summary>friends</summary>
 
   [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore)
 </details>
