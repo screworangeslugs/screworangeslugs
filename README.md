@@ -4,6 +4,7 @@
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/WbFJQZmV/checker-div.gif" alt="div" width="800">
+  <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&pause=100&color=8A72AC&center=true&width=435&lines=Du+willst+eine+Jahreskarte;Du+willst+einen+Ring+am+Finger;Eine+Gummihand+in+deiner;Festgekettet+und+f%C3%BCr+immer" alt="Typing SVG" /></a>
 </p>
 <img align="left" src="https://i.postimg.cc/g0ZppYSp/Untitled17-20260902093354.png" alt="newbuck" width="500">
 
@@ -19,10 +20,10 @@
 <details>
   <summary>friends</summary>
 
-  [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore) , [aven](https://github.com/avenueq)
+  [rose](https://github.com/wiltingr0ses) , [cinder](https://github.com/FrutigerAeroCore) , [aven](https://github.com/avenueq) 
 </details>
 <br clear="left" />
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27C2B&width=435&lines=kudos+for+taking+notes%2C+flunky!;make+sure+everyone+gets+a+copy%2C;will+ya%3F" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&pause=100&color=C54A1A&center=true&width=435&lines=kudos+for+taking+notes%2C+flunky!;make+sure+everyone+gets+a+copy%2C+will+ya%3F" alt="Typing SVG" /></a>
 <p align="center">
   <img src="https://i.postimg.cc/WbFJQZmV/checker-div.gif" alt="div" width="800">
 </p>
