@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/WbFJQZmV/checker-div.gif" alt="div" width="800">
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&duration=3000&color=8A72AC&center=true&width=435&lines=Du+willst+eine+Jahreskarte;Du+willst+einen+Ring+am+Finger;Eine+Gummihand+in+deiner;Festgekettet+und+f%C3%BCr+immer;Festgekettet+und+f%C3%BCr+immer" alt="Typing SVG" /></a>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&duration=2900&pause=10&color=8A72AC&center=true&vCenter=true&width=435&lines=Du+willst+eine+Jahreskarte;Du+willst+einen+Ring+am+Finger;Eine+Gummihand+in+deiner;Festgekettet+und+f%C3%BCr+immer" alt="Typing SVG" /></a>
 </p>
 <img align="left" src="https://i.postimg.cc/g0ZppYSp/Untitled17-20260902093354.png" alt="newbuck" width="500">
 
