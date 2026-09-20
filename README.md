@@ -15,7 +15,7 @@
 <details>
   <summary>dni</summary>
 
-  basic dni . most particularly LSP fandom, South Park fandom, Kayden Smith/H&YYMagic8ball and PuckieLockie supporters dni pls
+  basic dni . most particularly LSP fandom, South Park fandom, Kayden Smith/H&YYMagic8ball and PuckieLockie supporters/friends dni pls
 </details>
 <details>
   <summary>friends</summary>
