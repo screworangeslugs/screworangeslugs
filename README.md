@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=acornyjoke&color=c54a1a)
+![](https://komarev.com/ghpvc/?username=acornyjoke&color=c54a1a&style=flat-square&label=/newbies&base=2008)
 <p align="center">
   <img src="https://i.postimg.cc/tgSxKNcs/wings.png" alt="wings" width="350">
 </p>
