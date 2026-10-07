@@ -16,4 +16,6 @@
 <p align="center">
   <img src="https://typingsvg.vercel.app/api/svg?height=55&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22Papi%2C+%C2%A1eres+mi+vaquero%21%22%2C%22font%22%3A%22Cossette+Titre%22%2C%22color%22%3A%22%238945ab%22%2C%22typingSpeed%22%3A0.04%2C%22deleteSpeed%22%3A0.03333333333333333%7D%5D" width="260" alt="lyr puck">
 </p>
+<p align="center">
+  <a href="https://github.com/pt-hall-of-media">pt hall of media</a> 
 
