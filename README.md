@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=acornyjoke&color=f27c2b&style=flat-square&label=/newbies&base=2008" alt="profile views" width="100">
 </p>
+
+</p>
 <p align="left">
   <img src="https://i.postimg.cc/XJgYjQwK/Hyycharacter-Sun.webp" alt="sunny" width="100">
 </p>
