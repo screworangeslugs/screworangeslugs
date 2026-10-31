@@ -6,17 +6,19 @@
 <div align="center">
 $\color{#bc589a}\text{formerly screworangeslugs.}$
   
-$\color{#75b331}\text{follow main}$ $\color{#bc589a}\text{<a href="https://github.com/haIImarkcards">@hallmarkcards</a>}$
+$\color{#75b331}\text{follow main}$ 
 
-$\color{#bc589a}\text{i like old greeting card stuff}$
+$\color{#bc589a}\text{<a href="https://github.com/haIImarkcards">@hallmarkcards</a>}$
 
-$\color{#75b331}\text{(particularly hoops and yoyo i've been}$ 
+$\color{#75b331}\text{i like old greeting card stuff}$
 
-$\color{#bc589a}\text{hyperfixated for 2 years holy shiiiiiiit)}$
+$\color{#bc589a}\text{(particularly hoops and yoyo i've been}$ 
 
-$\color{#75b331}\text{going for the 3 year milestone wish}$
+$\color{#75b331}\text{hyperfixated for 2 years holy shiiiiiiit)}$
 
-$\color{#bc589a}\text{me luck guys}$
+$\color{#bc589a}\text{going for the 3 year milestone wish}$
+
+$\color{#75b331}\text{me luck guys}$
 </div>
 
 <!--
