@@ -4,7 +4,8 @@
 </p>
 
 <div align="center">
-$\color{#bc589a}\text{formerly screworangeslugs.}$
+  
+$\color{#bc589a}\text{formerly screworangeslugs}$
   
 $\color{#75b331}\text{follow main}$ 
 
