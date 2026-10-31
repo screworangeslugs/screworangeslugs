@@ -9,7 +9,7 @@ $\color{#bc589a}\text{formerly screworangeslugs}$
   
 $\color{#75b331}\text{follow main}$ 
 
-$\color{#bc589a}\text{<a href="https://github.com/haIImarkcards">@hallmarkcards</a>}$
+<a href="https://github.com/haIImarkcards">@hallmarkcards</a>
 
 $\color{#75b331}\text{i like old greeting card stuff}$
 
