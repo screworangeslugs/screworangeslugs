@@ -7,7 +7,7 @@
   
 $\color{#bc589a}\text{formerly screworangeslugs}$
   
-$\color{#75b331}\text{follow main}$ 
+$\color{#75b331}\text{main linked below}$ 
 
 <a href="https://github.com/haIImarkcards">@hallmarkcards</a>
 
@@ -19,7 +19,7 @@ $\color{#75b331}\text{hyperfixated for 2 years holy shiiiiiiit)}$
 
 $\color{#bc589a}\text{going for the 3 year milestone wish}$
 
-$\color{#75b331}\text{me luck guys}$
+$\color{#75b331}\text{me luck guys!!! starts trembling in anticipation}$
 </div>
 
 <!--
