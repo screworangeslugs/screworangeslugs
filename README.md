@@ -1,28 +1,18 @@
+<table>
+  <tr>
+    <td rowspan="2"><img align="center" width="490" src="https://files.catbox.moe/cil8b5.png" alt="Image description"></td>
+    <td><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&size=40&duration=3000&color=671110&center=true&vCenter=true&width=435&lines=cut%2C+cut%2C+cut+me+up;and+fuck%2C+fuck%2C+fuck+me+up!" alt="Typing SVG" /></a></td>
+  </tr>
+  <tr>
+    <td>$\color{#671110}\text{formerly @screworangeslugs follow main pls}$
 
-<p align="center">
-  <img width="281" height="281" alt="hyy ninja squirrel" src="https://github.com/user-attachments/assets/ed9226c3-baf7-490a-8e95-db93c39f64c1" />
-</p>
+$\color{#67362f}\text{i want f!hoops' yams /nsrs i dont even know what that means}$
 
-<div align="center">
-  
-$\color{#bc589a}\text{formerly screworangeslugs}$
-  
-$\color{#75b331}\text{main linked below}$ 
-
-<a href="https://github.com/haIImarkcards">@hallmarkcards</a>
-
-$\color{#75b331}\text{i like old greeting card stuff}$
-
-$\color{#bc589a}\text{(particularly hoops and yoyo i've been}$ 
-
-$\color{#75b331}\text{hyperfixated for 2 years holy shiiiiiiit)}$
-
-$\color{#bc589a}\text{going for the 3 year milestone wish}$
-
-$\color{#75b331}\text{me luck guys!!! starts trembling in anticipation}$
-</div>
-
-<!--
-i like men
-  <img src="https://i.postimg.cc/05Vd3s2K/ezgif-com-gif-maker-(1).gif" width="30" alt="photoshoot"> <a href="https://github.com/"></a> $\color{#0098d2}\text{is Pony Town's j (j) !}$
--->
+<table>
+  <tr>
+    <td><img src="https://files.catbox.moe/skmz39.png" alt="woohoo" width="380"></td>
+    </td>
+  </tr>
+</table>
+  </tr>
+</table>
