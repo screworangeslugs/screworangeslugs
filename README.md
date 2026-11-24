@@ -10,7 +10,7 @@ $\color{#67362f}\text{i want f!hoops' yams /nsrs i dont even know what that mean
 
 $\color{#671110}\text{17ʸᵒ uncㅤㅤㅤㅤㅤㅤㅤmixed chi + malay}$
 
-$\color{#67362f}\text{monofannish im only interested in hoops&yoyo rn}$
+$\color{#67362f}\text{monofannish im only interested in hoops and yoyo rn}$
 
 <table>
   <tr>
