@@ -8,7 +8,7 @@
 
 $\color{#67362f}\text{i want f!hoops' yams /nsrs i dont even know what that means}$
 
-$\color{#671110}\text{17ʸᵒ uncㅤㅤㅤㅤㅤㅤㅤmixed chi + malay}$
+$\color{#671110}\text{17ʸᵒ uncㅤㅤㅤㅤㅤmixed chi + malayㅤㅤㅤㅤㅤnpd}$
 
 $\color{#67362f}\text{monofannish im only interested in hoops and yoyo rn}$
 
