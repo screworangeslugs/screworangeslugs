@@ -15,7 +15,6 @@ $\color{#67362f}\text{monofannish im only interested in hoops and yoyo rn}$
 <table>
   <tr>
     <td><img src="https://files.catbox.moe/skmz39.png" alt="woohoo" width="380"></td>
-    </td>
   </tr>
 </table>
   </tr>
