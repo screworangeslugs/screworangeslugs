@@ -8,6 +8,10 @@
 
 $\color{#67362f}\text{i want f!hoops' yams /nsrs i dont even know what that means}$
 
+$\color{#671110}\text{17ʸᵒ uncㅤㅤㅤㅤㅤㅤㅤmixed chi + malay}$
+
+$\color{#67362f}\text{monofannish im only interested in hoops&yoyo rn}$
+
 <table>
   <tr>
     <td><img src="https://files.catbox.moe/skmz39.png" alt="woohoo" width="380"></td>
