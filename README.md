@@ -12,6 +12,8 @@ $\color{#671110}\text{17ʸᵒ uncㅤㅤㅤㅤㅤmixed chi + malayㅤㅤㅤㅤㅤ
 
 $\color{#67362f}\text{monofannish im only interested in hoops and yoyo rn}$
 
+$\color{#671110}\text{baile funk lover im so sorry but its so addicting to listen to}$
+
 <table>
   <tr>
     <td><img src="https://files.catbox.moe/skmz39.png" alt="woohoo" width="380"></td>
